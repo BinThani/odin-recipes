@@ -1,2 +1,4 @@
 # odin-recipes
-HTML project by OdinProject
+HTML project
+
+Tells you the recipes about odin
